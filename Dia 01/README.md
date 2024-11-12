@@ -52,4 +52,10 @@
     - Linguagens abordadas incluem HTML, CSS, JavaScript, entre outras.
 - **Ambiente de Desenvolvimento**:
     - Introdução ao ambiente de desenvolvimento que será utilizado no curso, incluindo as principais ferramentas e práticas para facilitar a programação e a construção de projetos.
+ 
+### Tag's
+- **h1**: Tag para definir títulos
+- **p**: Tag para definir parágrafos
+- **ol**: Tag para iniciar lista ordenada
+- **li**: Tag para definir itens de lista
 
