@@ -20,7 +20,7 @@
 ### Ficha de Identificação do Aluno
 - Todos os alunos deverão preencher a ficha de identificação no início do curso para facilitar a integração e acompanhamento durante as aulas.
 
-### Dias de Aula
+### Dias de Aula (cronograma)
 
 | Dia      | Check |
 |----------|-------|
