@@ -45,7 +45,7 @@
 | 12/12    |       |
 | 16/12    |       |
 
-### Informações sobre promoção e RetençãoR
+### Informações sobre Promoção e Retenção
 - Será promovido o educando, cuja nota final (NF) seja igual ou superior a 50 (cinquenta), numa escala de 0 a 100, em cada componente curricular, ao final do período letivo. Além disso, sua frequência deverá ser igual ou superior a 75% (setenta e cinco por cento) do total de horas-aula de cada componente curricular.
   
 ### Aprendizado do dia
