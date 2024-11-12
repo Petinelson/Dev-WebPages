@@ -45,15 +45,18 @@
 | 12/12    |       |
 | 16/12    |       |
 
-### Abordagem sobre Aprendizado
+### Informações sobre promoção e RetençãoR
+- Será promovido o educando, cuja nota final (NF) seja igual ou superior a 50 (cinquenta), numa escala de 0 a 100, em cada componente curricular, ao final do período letivo. Além disso, sua frequência deverá ser igual ou superior a 75% (setenta e cinco por cento) do total de horas-aula de cada componente curricular.
+  
+### Aprendizado do dia
 - **Tecnologias**:
     - Exploração das principais tecnologias usadas no desenvolvimento de páginas para a internet.
 - **Linguagens**:
-    - Linguagens abordadas incluem HTML, CSS, JavaScript, entre outras.
+    - Linguagens abordadas incluem HTML, CSS e JavaScript.
 - **Ambiente de Desenvolvimento**:
     - Introdução ao ambiente de desenvolvimento que será utilizado no curso, incluindo as principais ferramentas e práticas para facilitar a programação e a construção de projetos.
  
-### Tag's
+### Tag's (Elementos desenvolvidos em sala de aula)
 - **h1**: Tag para definir títulos
 - **p**: Tag para definir parágrafos
 - **ol**: Tag para iniciar lista ordenada
