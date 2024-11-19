@@ -4,19 +4,19 @@
 
 ### Abordagem sobre: github.com/petinelson
 
-**body** -> Conteúdo da página
+body -> Conteúdo da página
 
 Na linguagem HTML, temos os elementos que são conhecidos como TAG's
 
 Exemplo:
-**<h1>** -> Título do conteúdo
-**<p>**  -> Parágrafo (texto)
-**<ol>** -> Definição de lista ordenada
-**<li>** -> Itens da lista
+<h1> -> Título do conteúdo
+<p>  -> Parágrafo (texto)
+<ol> -> Definição de lista ordenada
+<li> -> Itens da lista
 
 ----------------------------------------------------
 
-**CSS** -> trabalhamos com elemento HTML (seletores) + propriedades.
+CSS -> trabalhamos com elemento HTML (seletores) + propriedades.
 
 Exemplo: 
 h1{
