@@ -38,3 +38,4 @@ No contexto do exemplo acima, temos:
 - **Seletor:** `h1`
 - **Propriedade:** `color`
 
+No visual studio code, para montar a estrutura de uma página HTML usamos o símbolo "!"
