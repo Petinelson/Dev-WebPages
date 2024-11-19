@@ -2,30 +2,39 @@
 
 ## Aula 02
 
-### Abordagem sobre: github.com/petinelson
+### Abordagem sobre: [GitHub do professor](https://github.com/petinelson)
 
-body -> Conteúdo da página
+### HTML
 
-Na linguagem HTML, temos os elementos que são conhecidos como TAG's
+O elemento `<body>` representa o conteúdo principal da página.
 
-Exemplo:
-<h1> -> Título do conteúdo
-<p>  -> Parágrafo (texto)
-<ol> -> Definição de lista ordenada
-<li> -> Itens da lista
+Na linguagem HTML, temos os elementos que são conhecidos como **TAGs**.
 
-----------------------------------------------------
+#### Exemplos de TAGs:
 
-CSS -> trabalhamos com elemento HTML (seletores) + propriedades.
+- `<h1>`: Título do conteúdo.
+- `<p>`: Parágrafo (texto).
+- `<ol>`: Definição de lista ordenada.
+- `<li>`: Itens da lista.
 
-Exemplo: 
-h1{
-	color: blue;
+---
+
+### CSS
+
+O CSS trabalha com **elementos HTML (seletores)** e **propriedades**.
+
+#### Exemplo:
+
+```css
+h1 {
+  color: blue;
 }
 
-**h1** no HTML conhecemos como elemento ou TAG
-**h1** no CSS conhecemos como seletor
-no contexto do exemplo, temos assim:
-	- seletor h1
-	- propriedade color
+- No **HTML**, o `h1` é conhecido como **elemento** ou **TAG**.
+- No **CSS**, o `h1` é chamado de **seletor**.
+
+No contexto do exemplo acima, temos:
+
+- **Seletor:** `h1`
+- **Propriedade:** `color`
 
