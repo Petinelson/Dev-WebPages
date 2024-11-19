@@ -8,6 +8,8 @@ O curso é voltado para potenciais empresários que desejam estruturar sua ideia
 
 ### É simples, rápido e gratuito se formalizar
 
+# Desenvolvimento de Páginas para Internet
+
 ## Sobre o curso
 
 [Link para Inscrição](https://amei.sebrae.com.br/auth/realms/externo/protocol/openid-connect/auth?redirect_uri=https://inscricao.sebraesp.com.br/owin/security/keycloak/keycloak-empreendarapido/callback&response_type=code&scope=openid&state=oidc_state_0bed2e424af6449e9f17d2f39dbeabd6&client_id=inscricao-sp)
@@ -16,7 +18,7 @@ A capacitação será realizada de segunda a quinta-feira, entre os dias 11 de n
 O curso abordará fundamentos da web, design de interface, estrutura de HTML, estilização com CSS e introdução ao JavaScript, com foco em navegação segura, prototipagem, desenvolvimento responsivo e ferramentas de layout.
 Essa é uma excelente oportunidade para quem deseja aprimorar suas habilidades no mundo digital e aprender a criar sites de forma profissional.
 
-[Informações](https://cajamar.sp.gov.br/noticias/2024/10/23/inscricoes-abertas-para-o-curso-aprenda-a-desenvolver-paginas-na-internet/)
+[Informações no site da prefeitura de Cajamar](https://cajamar.sp.gov.br/noticias/2024/10/23/inscricoes-abertas-para-o-curso-aprenda-a-desenvolver-paginas-na-internet/)
 
 ### Dias de Aula (cronograma)
 
