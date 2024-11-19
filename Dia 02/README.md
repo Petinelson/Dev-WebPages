@@ -29,7 +29,7 @@ O CSS trabalha com **elementos HTML (seletores)** e **propriedades**.
 h1 {
   color: blue;
 }
-
+```
 - No **HTML**, o `h1` é conhecido como **elemento** ou **TAG**.
 - No **CSS**, o `h1` é chamado de **seletor**.
 
